@@ -1,4 +1,4 @@
-// Day 6, Mon 22/04/24 (Rest Days on Day & Day 5)
+//  Mon 22/04/24
 
 // 11. Shortest Word
 

@@ -1,4 +1,4 @@
-// Day 1, Wed 17/04/24
+//  Wed 17/04/24
 
 // 3. Write a function to convert a name into initials. This kata strictly takes two words with one space in between them.
 

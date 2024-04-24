@@ -1,4 +1,4 @@
-// Day 3, Fri 19/04/24
+// Fri 19/04/24
 
 // 10. Reversed Strings
 

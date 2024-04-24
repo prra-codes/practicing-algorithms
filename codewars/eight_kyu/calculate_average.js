@@ -1,4 +1,4 @@
-// Day 2, Thu 18/04/24
+// Thu 18/04/24
 
 // 7. Calculate average
 

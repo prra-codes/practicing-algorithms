@@ -1,4 +1,4 @@
-// Day 6, Mon 22/04/24 (Days 4 and 5 rest days)
+//  Mon 22/04/24
 
 // 4. Tournament Winner
 

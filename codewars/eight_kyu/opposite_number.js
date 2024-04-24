@@ -1,4 +1,4 @@
-// Day 1, Wed 17/04/24
+// Wed 17/04/24
 
 // 2. Opposite number
 

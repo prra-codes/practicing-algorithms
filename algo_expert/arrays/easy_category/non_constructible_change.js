@@ -28,3 +28,5 @@ function nonConstructibleChange(coins) {
 
   return constructibleChange + 1;
 }
+
+// O(nlogn) time  |  O(1) space where n is the number of coins

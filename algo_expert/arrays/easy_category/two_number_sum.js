@@ -48,4 +48,31 @@ function twoNumberSumTwo(arr, targetSum) {
 // Time: O(N) since we can at worse loop through the whole array,
 // Space: O(N) because we have the object nums which increase as the input n increases
 
-console.log(twoNumberSumTwo([3, 5, -4, 8, 11, 1, -1, 6], 10));
+// console.log(twoNumberSumTwo([3, 5, -4, 8, 11, 1, -1, 6], 10));
+
+function twoNumberSumThree(arr, targetSum) {
+  arr.sort((a, b) => a - b);
+
+  let leftIdx = 0;
+  let rightIdx = arr.length - 1;
+
+  while (leftIdx < rightIdx) {
+    let currentSum = arr[leftIdx] + arr[rightIdx];
+
+    if (currentSum === targetSum) {
+      return [arr[leftIdx], arr[rightIdx]];
+    } else if (currentSum < targetSum) {
+      leftIdx++;
+    } else if (currentSum > targetSum) {
+      rightIdx--;
+    }
+  }
+  return [];
+}
+
+// Time Complexity: nlog(n),
+// Space Complexity: O(1) (don't use any extra space)
+
+// Good sorting out algorithms take nlog(n) time
+
+console.log(twoNumberSumThree([3, 5, -4, 8, 11, 1, -1, 6], 10));

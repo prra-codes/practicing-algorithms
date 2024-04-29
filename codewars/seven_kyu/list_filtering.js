@@ -1,4 +1,4 @@
-//  Day 1, Wed 24/04/24
+//  Wed 24/04/24
 
 // 12. List Filtering
 

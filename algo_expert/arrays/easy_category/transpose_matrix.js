@@ -1,4 +1,4 @@
-//  Day 3, Fri 26/04/24 (Day 2 rest day for algorithms)
+// Fri 26/04/24
 
 // 6. Transpose Matrix
 

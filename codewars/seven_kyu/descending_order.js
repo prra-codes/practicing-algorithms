@@ -1,6 +1,6 @@
-//  Day 3, Fri 24/04/24 (Day 2 Rest Day for algorithms)
+//   Fri 24/04/24
 
-// 13.Descending Order
+// 13. Descending Order
 
 // Your task is to make a function that can take any non-negative integer as an argument and return it with its digits in descending order. Essentially, rearrange the digits to create the highest possible number.
 

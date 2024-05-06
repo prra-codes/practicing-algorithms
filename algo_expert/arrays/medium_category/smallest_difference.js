@@ -1,4 +1,4 @@
-// Day 2, Tue 30/04/24
+// Tue 30/04/24
 
 // 8. Smallest Difference
 

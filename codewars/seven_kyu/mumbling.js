@@ -1,5 +1,3 @@
-//   Day 2, Tue 30/04/24
-
 // 15. Mumbling
 
 // This time no story, no theory. The examples below show you how to write function accum:

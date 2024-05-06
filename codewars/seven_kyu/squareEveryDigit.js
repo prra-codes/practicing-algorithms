@@ -1,4 +1,4 @@
-// Day 4, Thu 2/05/24
+//  Thu 2/05/24
 
 // 17. Square Every Digit
 

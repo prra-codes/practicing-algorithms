@@ -1,6 +1,6 @@
-// Day 4, Thu 2/05/24
+// Thu 2/05/24
 
-// 10. Move Element to End
+// 10. Monotonic Array
 
 // Write a function that takes in an array of integers and returns a boolean representing whether the array is monotonic.
 

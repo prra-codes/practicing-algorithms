@@ -1,4 +1,4 @@
-// Day1,  Mon, 6/05/24
+// Day 1, Mon, 6/05/24
 
 // 11. Spiral Traverse
 

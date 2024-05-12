@@ -1,4 +1,4 @@
-// Day 5, Sat, 9/05/24
+// Day 5, Fri, 10/05/24
 
 // 22. Small enough? - Beginner
 

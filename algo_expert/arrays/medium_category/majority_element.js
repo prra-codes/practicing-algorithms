@@ -1,4 +1,4 @@
-// True Day 1, Mon, 20/05/24
+//  Mon, 20/05/24
 
 // 19. Majority Element
 

@@ -1,4 +1,4 @@
-// True Day 2, Tue, 21/05/24
+//  Tue, 21/05/24
 
 // 26. Odd or Even?
 

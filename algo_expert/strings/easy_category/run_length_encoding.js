@@ -1,4 +1,4 @@
-//  Day 3, Mon, 27/05/24
+//  Mon, 27/05/24
 
 // 23. Run-Length Encoding
 

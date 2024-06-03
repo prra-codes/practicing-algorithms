@@ -1,4 +1,4 @@
-//  Day 4, Tue, 28/05/24
+//  Tue, 28/05/24
 
 // 24. Common Characters
 

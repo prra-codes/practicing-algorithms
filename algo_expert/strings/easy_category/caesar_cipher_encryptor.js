@@ -1,4 +1,4 @@
-//  Day 2, Sun, 26/05/24
+// Sun, 26/05/24
 
 // 22. Caesar Cipher Encryptor
 

@@ -1,4 +1,4 @@
-//  Day 1, Sat, 25/05/24
+//  Sat, 25/05/24
 
 // 21. Palindrome Check
 

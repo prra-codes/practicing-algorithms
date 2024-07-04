@@ -1,6 +1,6 @@
 //  Tue, 02/07/24
 
-// 36. Product Sum
+// 35. Product Sum
 
 // Write function that takes in a "special" array and returns its product sum.
 

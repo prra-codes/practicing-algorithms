@@ -15,6 +15,7 @@
 // Input: s = "jar", t = "jam"
 
 // Output: false
+
 // Constraints:
 
 // s and t consist of lowercase English letters.

@@ -1,6 +1,6 @@
 // Thu, 11/07/24
 
-// 28. Find the odd int
+// 28.(1) Find the odd int
 
 // Given an array of integers, find the one that appears an odd number of times.
 

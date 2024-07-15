@@ -47,7 +47,7 @@ function topKFrequent(nums, k) {
 }
 
 // Time Complexity: Onlog(n)) I believe, because of sorting
-// Space Complexity: O(n) I think
+// Space Complexity: O(n) I believe
 
 console.log(topKFrequent([1, 2, 2, 3, 3, 3], 2));
 console.log(topKFrequent([7, 7], 1));

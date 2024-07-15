@@ -1,6 +1,6 @@
 // 1. Duplicate Integer, Mon, 8/7/24
 
-//Given an integer array nums, return true if any value appears more than once in the array, otherwise return false.
+// Given an integer array nums, return true if any value appears more than once in the array, otherwise return false.
 
 // Example 1:
 

@@ -1,4 +1,4 @@
-// 3.  Two Integer Sum, Thu, 11/7/24
+// 3. Two Integer Sum, Thu, 11/7/24
 
 // Given an array of integers nums and an integer target, return the indices i and j such that nums[i] + nums[j] == target and i != j.
 

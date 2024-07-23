@@ -1,6 +1,4 @@
-// Sat, 20/07/24
-
-// technically a 7 kyu qn but hey.
+// Mon, 22/07/24
 
 // 38. Count characters in your string
 

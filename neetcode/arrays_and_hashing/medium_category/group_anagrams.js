@@ -31,7 +31,7 @@
 function groupAnagrams(strs) {
   const strObj = {};
 
-  for (let str of strs) {
+  for (const str of strs) {
     let sorted = str.split("").sort().join("");
 
     if (!(sorted in strObj)) {

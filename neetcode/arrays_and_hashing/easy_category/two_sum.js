@@ -39,7 +39,6 @@ function twoSum(nums, target) {
       }
     }
   }
-  return nums;
 }
 
 // Time: O(n^2) two for loops

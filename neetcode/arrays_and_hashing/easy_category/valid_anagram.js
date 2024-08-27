@@ -26,7 +26,6 @@ function isAnagram(s, t) {
   }
 
   const sortedsStr = s.split("").sort().join("");
-
   const sortedtStr = t.split("").sort().join("");
 
   for (let i = 0; i < s.length; i++) {
